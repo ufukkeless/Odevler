@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders3Odev3", "Ders3Odev3\De
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders4Odev5", "Ders4Odev5\Ders4Odev5.csproj", "{841BA1C6-51D0-4B4D-949C-EAF3EB8ACB11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders5Odev5", "Ders5Odev5\Ders5Odev5.csproj", "{46238979-D17D-4FD8-9123-1B3D654ACC27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders5Odev5", "Ders5Odev5\Ders5Odev5.csproj", "{46238979-D17D-4FD8-9123-1B3D654ACC27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders6Odev2", "Ders6Odev2\Ders6Odev2.csproj", "{0FB0324F-117D-44D4-AD5A-AC8775C97756}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{46238979-D17D-4FD8-9123-1B3D654ACC27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46238979-D17D-4FD8-9123-1B3D654ACC27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46238979-D17D-4FD8-9123-1B3D654ACC27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FB0324F-117D-44D4-AD5A-AC8775C97756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FB0324F-117D-44D4-AD5A-AC8775C97756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FB0324F-117D-44D4-AD5A-AC8775C97756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FB0324F-117D-44D4-AD5A-AC8775C97756}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
